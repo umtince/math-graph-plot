@@ -1,0 +1,37 @@
+c:\users\user\documents\visual studio 2017\Projects\MatGraphicPlotter\MatGraphicPlotter\bin\Debug\MatGraphicPlotter.exe.config
+c:\users\user\documents\visual studio 2017\Projects\MatGraphicPlotter\MatGraphicPlotter\bin\Debug\MatGraphicPlotter.exe
+c:\users\user\documents\visual studio 2017\Projects\MatGraphicPlotter\MatGraphicPlotter\bin\Debug\MatGraphicPlotter.pdb
+c:\users\user\documents\visual studio 2017\Projects\MatGraphicPlotter\MatGraphicPlotter\obj\Debug\MatGraphicPlotter.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\MatGraphicPlotter\MatGraphicPlotter\obj\Debug\MatGraphicPlotter.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\MatGraphicPlotter\MatGraphicPlotter\obj\Debug\MatGraphicPlotter.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\MatGraphicPlotter\MatGraphicPlotter\obj\Debug\MatGraphicPlotter.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\MatGraphicPlotter\MatGraphicPlotter\obj\Debug\MatGraphicPlotter.exe
+c:\users\user\documents\visual studio 2017\Projects\MatGraphicPlotter\MatGraphicPlotter\obj\Debug\MatGraphicPlotter.pdb
+C:\Users\Hsync\Desktop\MatGraphicPlotter-20170404T071711Z-001\MatGraphicPlotter\MatGraphicPlotter\bin\Debug\MatGraphicPlotter.exe.config
+C:\Users\Hsync\Desktop\MatGraphicPlotter-20170404T071711Z-001\MatGraphicPlotter\MatGraphicPlotter\obj\Debug\MatGraphicPlotter.exe
+C:\Users\Hsync\Desktop\MatGraphicPlotter-20170404T071711Z-001\MatGraphicPlotter\MatGraphicPlotter\obj\Debug\MatGraphicPlotter.pdb
+C:\Users\Hsync\Desktop\MatGraphicPlotter-20170404T071711Z-001\MatGraphicPlotter\MatGraphicPlotter\bin\Debug\MatGraphicPlotter.exe
+C:\Users\Hsync\Desktop\MatGraphicPlotter-20170404T071711Z-001\MatGraphicPlotter\MatGraphicPlotter\bin\Debug\MatGraphicPlotter.pdb
+C:\Users\Hsync\Desktop\MatGraphicPlotter-20170404T071711Z-001\MatGraphicPlotter\MatGraphicPlotter\obj\Debug\MatGraphicPlotter.csprojResolveAssemblyReference.cache
+C:\Users\Hsync\Desktop\MatGraphicPlotter-20170404T071711Z-001\MatGraphicPlotter\MatGraphicPlotter\obj\Debug\MatGraphicPlotter.Form1.resources
+C:\Users\Hsync\Desktop\MatGraphicPlotter-20170404T071711Z-001\MatGraphicPlotter\MatGraphicPlotter\obj\Debug\MatGraphicPlotter.Properties.Resources.resources
+C:\Users\Hsync\Desktop\MatGraphicPlotter-20170404T071711Z-001\MatGraphicPlotter\MatGraphicPlotter\obj\Debug\MatGraphicPlotter.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\MatGraphPlot\MatGraphicPlotter-20170404T071711Z-001\MatGraphicPlotter\MatGraphicPlotter\bin\Debug\MatGraphicPlotter.exe.config
+C:\Users\User\Desktop\MatGraphPlot\MatGraphicPlotter-20170404T071711Z-001\MatGraphicPlotter\MatGraphicPlotter\bin\Debug\MatGraphicPlotter.exe
+C:\Users\User\Desktop\MatGraphPlot\MatGraphicPlotter-20170404T071711Z-001\MatGraphicPlotter\MatGraphicPlotter\bin\Debug\MatGraphicPlotter.pdb
+C:\Users\User\Desktop\MatGraphPlot\MatGraphicPlotter-20170404T071711Z-001\MatGraphicPlotter\MatGraphicPlotter\obj\Debug\MatGraphicPlotter.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\MatGraphPlot\MatGraphicPlotter-20170404T071711Z-001\MatGraphicPlotter\MatGraphicPlotter\obj\Debug\MatGraphicPlotter.Form1.resources
+C:\Users\User\Desktop\MatGraphPlot\MatGraphicPlotter-20170404T071711Z-001\MatGraphicPlotter\MatGraphicPlotter\obj\Debug\MatGraphicPlotter.Properties.Resources.resources
+C:\Users\User\Desktop\MatGraphPlot\MatGraphicPlotter-20170404T071711Z-001\MatGraphicPlotter\MatGraphicPlotter\obj\Debug\MatGraphicPlotter.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\MatGraphPlot\MatGraphicPlotter-20170404T071711Z-001\MatGraphicPlotter\MatGraphicPlotter\obj\Debug\MatGraphicPlotter.exe
+C:\Users\User\Desktop\MatGraphPlot\MatGraphicPlotter-20170404T071711Z-001\MatGraphicPlotter\MatGraphicPlotter\obj\Debug\MatGraphicPlotter.pdb
+C:\Users\User\Desktop\Yeni klasör (2)\MatGraphPlot\MatGraphicPlotter-20170404T071711Z-001\MatGraphicPlotter\MatGraphicPlotter\bin\Debug\MatGraphicPlotter.exe.config
+C:\Users\User\Desktop\Yeni klasör (2)\MatGraphPlot\MatGraphicPlotter-20170404T071711Z-001\MatGraphicPlotter\MatGraphicPlotter\bin\Debug\MatGraphicPlotter.exe
+C:\Users\User\Desktop\Yeni klasör (2)\MatGraphPlot\MatGraphicPlotter-20170404T071711Z-001\MatGraphicPlotter\MatGraphicPlotter\bin\Debug\MatGraphicPlotter.pdb
+C:\Users\User\Desktop\Yeni klasör (2)\MatGraphPlot\MatGraphicPlotter-20170404T071711Z-001\MatGraphicPlotter\MatGraphicPlotter\obj\Debug\MatGraphicPlotter.Form1.resources
+C:\Users\User\Desktop\Yeni klasör (2)\MatGraphPlot\MatGraphicPlotter-20170404T071711Z-001\MatGraphicPlotter\MatGraphicPlotter\obj\Debug\MatGraphicPlotter.Properties.Resources.resources
+C:\Users\User\Desktop\Yeni klasör (2)\MatGraphPlot\MatGraphicPlotter-20170404T071711Z-001\MatGraphicPlotter\MatGraphicPlotter\obj\Debug\MatGraphicPlotter.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Yeni klasör (2)\MatGraphPlot\MatGraphicPlotter-20170404T071711Z-001\MatGraphicPlotter\MatGraphicPlotter\obj\Debug\MatGraphicPlotter.exe
+C:\Users\User\Desktop\Yeni klasör (2)\MatGraphPlot\MatGraphicPlotter-20170404T071711Z-001\MatGraphicPlotter\MatGraphicPlotter\obj\Debug\MatGraphicPlotter.pdb
+C:\Users\User\Desktop\Yeni klasör (2)\MatGraphPlot\MatGraphicPlotter-20170404T071711Z-001\MatGraphicPlotter\MatGraphicPlotter\obj\Debug\MatGraphicPlotter.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Yeni klasör (2)\MatGraphPlot\MatGraphicPlotter-20170404T071711Z-001\MatGraphicPlotter\MatGraphicPlotter\obj\Debug\MatGraphicPlotter.csproj.CoreCompileInputs.cache
